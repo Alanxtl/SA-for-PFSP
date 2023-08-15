@@ -9,7 +9,7 @@
  
  结果展示如下：
  
- ![image](https://github.com/102365478/SA-for-PFSP/assets/25652981/5da60c57-cb7f-4832-ac5d-5e47745b0695)
+ ![image](https://github.com/102365478/SA-for-PFSP/blob/master/src/pic.png)
 
  使用方法：修改Java和python代码中的所有关于路径的代码，按照正确的格式提供测试集，先运行Java的main代码，之后会自动生成调度表，之后运行python代码（需要将调度表的路径正确填入代码）即可自动生成甘特图。
 
@@ -22,6 +22,6 @@ This repository provides complete report papers
 
 The results are shown as follows:
 
- ![image](https://github.com/102365478/SA-for-PFSP/assets/25652981/5da60c57-cb7f-4832-ac5d-5e47745b0695)
+ ![image](https://github.com/102365478/SA-for-PFSP/blob/master/src/pic.png)
 
 How to use it: Modify all the path related codes in Java and python code, provide test sets in the correct format, run Java main code first, then automatically generate a schedule table, and then run python code (the path of the schedule table needs to be correctly filled in the code) to automatically generate a Gantt chart.
